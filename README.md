@@ -1,4 +1,6 @@
 # Mall_Customer_Segmentation
+https://storage.googleapis.com/kaggle-datasets-images/42674/74935/572dbd518d7eceb1d680c1a36fde9a40/dataset-cover.jpg?t=2018-08-11-07-48-58![image](https://github.com/masonlonoff/Mall_Customer_Segmentation/assets/117112918/282ace0a-2e27-4ead-b241-db366af5512c)
+
 
 Data visual file will be complementary to my actual segmentation models. I'll frame it as info that marketing could use as supporting or complementary info
 
