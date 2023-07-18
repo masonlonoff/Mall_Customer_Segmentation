@@ -1,5 +1,5 @@
 # Mall_Customer_Segmentation
-[image](https://github.com/masonlonoff/Mall_Customer_Segmentation/assets/117112918/282ace0a-2e27-4ead-b241-db366af5512c)
+![image](https://github.com/masonlonoff/Mall_Customer_Segmentation/assets/117112918/282ace0a-2e27-4ead-b241-db366af5512c)
 
 
 Data visual file will be complementary to my actual segmentation models. I'll frame it as info that marketing could use as supporting or complementary info
