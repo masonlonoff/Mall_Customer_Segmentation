@@ -8,6 +8,7 @@
 * [Data_Segmentation_Visuals](https://github.com/masonlonoff/Mall_Customer_Segmentation/blob/main/Data_Segmentation_Visuals.ipynb): Visualizing the segments created by the best performing model.
 ## Table of Contents
 - [Description](#description)
+- [DatasetInformation](#dataset_information)
 
 ## Description
 You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
@@ -21,6 +22,10 @@ Spending Score is something you assign to the customer based on your defined par
 **Spending Score (1-100)** - Score assigned by the mall based on customer behavior and spending nature\
 
 ## Objectives
+1) Understand the structure and characteristics of the dataset
+2) Examine each column to understand its underlying characteristics
+3) Through experimentation, find out which model produces the best clusters for further analysis
+4) 
 
 ## Strategic Plan of Action
 
