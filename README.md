@@ -1,5 +1,5 @@
 # Mall Customer Segmentation
-![image](https://storage.googleapis.com/kaggle-datasets-images/42674/74935/572dbd518d7eceb1d680c1a36fde9a40/dataset-cover.jpg?t=2018-08-11-07-48-58)
+
 
 ## File Descriptions
 * [Data_Exploration_Segmentation](https://github.com/masonlonoff/Mall_Customer_Segmentation/blob/main/Data_Exploration![image](https://github.com/masonlonoff/Mall_Customer_Segmentation/assets/117112918/29f4560e-cb27-471e-80dc-abaffa6b9d18)
