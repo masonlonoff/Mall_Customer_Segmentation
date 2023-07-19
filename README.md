@@ -6,3 +6,8 @@
 * [Explotatory_Data_Analysis_Segmentation](https://github.com/masonlonoff/Mall_Customer_Segmentation/blob/main/Exploratory_Data_Analysis_Segmentation.ipynb): Conducts high-level EDA on the dataset as well as EDA on each column.
 * [Clustering_Models](https://github.com/masonlonoff/Mall_Customer_Segmentation/blob/main/Clustering_Models.ipynb): Experimenting with different clustering models and dimension reductionality techniques in order to find the best model.
 * [Data_Segmentation_Visuals](https://github.com/masonlonoff/Mall_Customer_Segmentation/blob/main/Data_Segmentation_Visuals.ipynb): Visualizing the segments created by the best performing model.
+## Table of Contents
+
+## Description
+You are owing a supermarket mall and through membership cards , you have some basic data about your customers like Customer ID, age, gender, annual income and spending score.
+Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
