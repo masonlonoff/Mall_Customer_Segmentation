@@ -13,4 +13,4 @@ You are owing a supermarket mall and through membership cards , you have some ba
 Spending Score is something you assign to the customer based on your defined parameters like customer behavior and purchasing data.
 
 ## Acknowledgment 
-This analysis was conducted based on the **Mall Customer Segmentation Data** by VIJAY CHOUDHARY on Kaggle.(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
+This analysis was conducted based on the **Mall Customer Segmentation Data** by VIJAY CHOUDHARY on [Kaggle](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python).
