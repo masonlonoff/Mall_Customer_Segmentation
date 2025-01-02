@@ -21,7 +21,7 @@ You are owing a supermarket mall and through membership cards , you have some ba
 **Gender** - Gender of the Customer\
 **Age** - Age of the Customer\
 **Annual Income (k$)** - Annual Income of the customer\
-**Spending Score (1-100)** - Score assigned by the mall based on customer behavior and spending nature\
+**Spending Score (1-100)** - Score assigned by the mall based on customer behavior and spending nature
 
 ## Objectives
 1) Understand the structure and characteristics of the dataset
